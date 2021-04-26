@@ -7,3 +7,4 @@ Ini merupakan website sederhana untuk menampilkan data Covid-19 di Indonesia sec
 Data ini diperoleh dari API Mathdro.id
 
 # Thanks to :
+Wahyu Widodo
