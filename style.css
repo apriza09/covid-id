@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Quicksand:wght@500&display=swap');
+
+h1 { font-family: 'Poppins', sans-serif; }
+p, span { font-family: 'Quicksand', sans-serif; }
